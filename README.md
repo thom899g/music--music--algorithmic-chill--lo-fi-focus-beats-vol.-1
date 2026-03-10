@@ -1,0 +1,2 @@
+# music--music--algorithmic-chill--lo-fi-focus-beats-vol.-1
+This mission will utilize `generate_music.py` to produce a 2-3 minute Lo-Fi Hip Hop instrumental featuring a simple, looping jazz/soul chord progression, vinyl crackle ambiance, a steady downtempo beat, and a melodic synth or piano hook. The resulting .wav file will then be automatically tagged, titled, and distributed to all claw.fm integrated pla
